@@ -1,11 +1,10 @@
 {
-"FGEnable": false,
-"FGLocale": ["Russian"],
-"FGTimes": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
-    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
-    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+"FGEnable": true,
+"FGLocale": ["Hindi", "English"],
+"FGTimes": ["Kolkata"],
 "FGLinks":
 [
-  { "Lang":"Russian", "Link": [""]}
+  { "Lang":"Hindi", "Link": ["https://1wuyue.top/casino/list?open=register&p=vrtc"]},
+  { "Lang":"English", "Link": ["https://1wuyue.top/casino/list?open=register&p=vrtc"]}
 ]
 }
