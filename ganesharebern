@@ -1,0 +1,9 @@
+{
+"FGEnable": false,
+"FGLocale": ["Hindi"],
+"FGTimes": ["Kolkata"],
+"FGLinks":
+[
+  { "Lang":"Hindi", "Link": [""]}
+]
+}
